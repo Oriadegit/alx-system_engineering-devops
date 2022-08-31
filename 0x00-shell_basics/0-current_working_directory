@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/2337680760006435805917575521454875001097_5/205/144500/0x00-shell_basics
+echo $PATH
